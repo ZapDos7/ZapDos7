@@ -1,6 +1,6 @@
 ## Hello 🌻
 
-I am Ioanna and I am an junior developer. I specialize in software and web development, and I am heavily interested in Machine Learning and Mathematics, while constantly looking for opportunities to expand my knowledge level in multiple fields.
+I am Ioanna and I am a back-end developer, heavily interested in Machine Learning and Mathematics, while constantly looking for opportunities to expand my knowledge level in multiple fields.
 
 I am also interested in reading books on psychology, studying foreign languages and cultures, poetry and dancing.
 You can learn more about me [here](https://zapdos7.github.io/)
