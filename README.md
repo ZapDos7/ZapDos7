@@ -10,5 +10,3 @@ You can learn more about me [here](https://zapdos7.github.io/)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZapDos7&show_icons=true&theme=tokyonight)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZapDos7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Click to play with [galaxies](https://29a.ch/sandbox/2011/neonflames/), [sand](https://thisissand.com/), [stars](https://stars.chromeexperiments.com/) or [paint with silk](http://weavesilk.com/)
